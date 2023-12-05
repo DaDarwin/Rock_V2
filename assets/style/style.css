@@ -1,1 +1,10 @@
 /* BASIC STYLES HERE */
+img{
+    object-fit: cover;
+    aspect-ratio: 1/1;
+    width: 75%;
+}
+
+main{
+    min-height: 100vh;
+}
